@@ -1,8 +1,6 @@
 package ex280724;
 
-public class Lab0011 {
-    private static byte a;
-
+public class Lab0011 { ;
     public static void main(String[] args) {
         String student="sara";
         int standard =9;
